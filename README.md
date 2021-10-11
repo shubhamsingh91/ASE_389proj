@@ -1,7 +1,7 @@
 # ASE389_proj
 This is the class project [slides](https://docs.google.com/presentation/d/1Kq6bykrTViuv7eVQTOppSFoD8zX2M3X8gUIvukkM-2Q/edit#slide=id.p1) for ASE389 Decision and Control of Human-Centered Robots.
 
-1. Trajectory for Walking Robotics (TOWR) (https://github.com/ethz-adrl/towr) library is modified to include some constraints on the robot for navigating indoor environments.
+1. Trajectory for Walking Robotics [TOWR](https://github.com/ethz-adrl/towr) library is modified to include some constraints on the robot for navigating indoor environments.
 2. TOWR uses trajectory optimizer IPOPT for solving the non-linear programming problem and runs using ROS.
 3. Two kinds of problems are solved in this project:
 

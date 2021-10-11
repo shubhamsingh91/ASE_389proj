@@ -1,0 +1,2 @@
+ifopt:towr/towr:towr/towr_ros:xpp/robots/xpp_hyq:xpp/robots/xpp_quadrotor:xpp/xpp:xpp/xpp_examples:xpp/xpp_msgs:xpp/xpp_states:xpp/xpp_vis
+-DCATKIN_DEVEL_PREFIX=/home/shubham/ASE389_proj/ASE389_proj/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/shubham/ASE389_proj/ASE389_proj/catkin_ws/install -G Unix Makefiles

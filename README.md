@@ -6,7 +6,7 @@ This is the class project for ASE389 Decision and Control of Human-Centered Robo
 3. Two kinds of problems are solved in this project:
     a. Sharp left/right turns for a quadruped (HyQ):
     
-       ![Alt Text](https://github.com/shubhamsingh91/ASE_389proj/blob/master/catkin_ws/images/proba.png?raw=true)
+       (https://github.com/shubhamsingh91/ASE_389proj/blob/master/catkin_ws/images/proba.png)
 
 
     b. Obstacle avoidance using a quadruped (HyQ):

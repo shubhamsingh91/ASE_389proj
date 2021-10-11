@@ -19,7 +19,7 @@ This is the class project for ASE389 Decision and Control of Human-Centered Robo
 
 4. Solution for optimal trajectory for prob 3a using the new constraints:    
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://github.com/shubhamsingh91/ASE_389proj/blob/master/catkin_ws/images/turns.gif)
 
 5. Solution for optimal trajectory for prob 3b using the new constraints:    
 

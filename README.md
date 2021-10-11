@@ -5,14 +5,12 @@ This is the class project for ASE389 Decision and Control of Human-Centered Robo
 2. TOWR uses trajectory optimizer IPOPT for solving the non-linear programming problem and runs using ROS.
 3. Two kinds of problems are solved in this project:
     a. Sharp left/right turns for a quadruped (HyQ):
-    
-     ![Alt Text](https://github.com/shubhamsingh91/ASE_389proj/blob/master/catkin_ws/images/probb.png | width=100) 
-        <img src="https://github.com/shubhamsingh91/ASE_389proj/blob/master/catkin_ws/images/probb.png" width="480">
+                   <img src="https://github.com/shubhamsingh91/ASE_389proj/blob/master/catkin_ws/images/proba.png" width="300">
+
 
     b. Obstacle avoidance using a quadruped (HyQ):
        The quadruped is forced to move through single/double obstacled placed one after the other as shown below. The constarint is placed only on the COM (Center          of Mass, depicted by black box at the center of HyQ).
-       
-       ![Alt Text](https://github.com/shubhamsingh91/ASE_389proj/blob/master/catkin_ws/images/probb.png)
+               <img src="https://github.com/shubhamsingh91/ASE_389proj/blob/master/catkin_ws/images/probb.png" width="300">
 
 
 5. ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)

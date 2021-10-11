@@ -22,5 +22,12 @@ This is the class project for ASE389 Decision and Control of Human-Centered Robo
 
 5. Solution for optimal trajectory for prob 3b using the new constraints:    
 
+    For this case, depending on the location of the target, the quadruped takes a different trajectory:
+    
+    HyQ Goes AROUND obstacles:
 
+    ![Alt Text](https://github.com/shubhamsingh91/ASE_389proj/blob/master/catkin_ws/images/probb.gif)
+    
+    HyQ Goes BETWEEN obstacles (Target moved left):
 
+    ![Alt Text](https://github.com/shubhamsingh91/ASE_389proj/blob/master/catkin_ws/images/probb2.gif)

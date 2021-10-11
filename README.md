@@ -11,7 +11,7 @@ This is the class project for ASE389 Decision and Control of Human-Centered Robo
 
 
     b. Obstacle avoidance using a quadruped (HyQ):
-       The quadruped is forced to move through single/double obstacled placed one after the other as shown below. The constarint is placed only on the COM (Center          of Mass, depicted by black box at the center of HyQ).
+       The quadruped is forced to move through single/double obstacles placed one after the other to reach the target(green star) as shown below. The constarint is placed only on the COM (Center          of Mass, depicted by black box at the center of HyQ).
                <img src="https://github.com/shubhamsingh91/ASE_389proj/blob/master/catkin_ws/images/probb.png" width="450">
 
 

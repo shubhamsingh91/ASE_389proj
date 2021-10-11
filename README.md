@@ -8,7 +8,7 @@ This is the class project for ASE389 Decision and Control of Human-Centered Robo
     a. Sharp left/right turns for a quadruped (HyQ):
         In this problem, the quadruped has to reach it's target (green star) from start (red circle) while navigating in the constrained region, and avoiding the           restricted region.
                  
-         <img src="https://github.com/shubhamsingh91/ASE_389proj/blob/master/catkin_ws/images/proba.png" width="450">
+         <img src="https://github.com/shubhamsingh91/ASE_389proj/blob/master/catkin_ws/images/proba.png" width="450"/>
 
 
     b. Obstacle avoidance using a quadruped (HyQ):

@@ -6,7 +6,7 @@ This is the class project for ASE389 Decision and Control of Human-Centered Robo
 3. Two kinds of problems are solved in this project:
     a. Sharp left/right turns for a quadruped (HyQ):
     
-     ![Alt Text](https://octodex.github.com/images/yaktocat.png)
+     ![Alt Text](https://github.com/shubhamsingh91/ASE_389proj/blob/master/catkin_ws/images/probb.png)
 
     b. Obstacle avoidance using a quadruped (HyQ):
        The quadruped is forced to move through single/double obstacled placed one after the other as shown below. The constarint is placed only on the COM (Center          of Mass, depicted by black box at the center of HyQ).
